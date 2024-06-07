@@ -30,8 +30,9 @@ BepInEx/*
 # mod ignore list
 
 #Include User/Mods/
-!user/mods
 !user
+!user/mods
+!user/cache
 user/*
 
 #Exclude
