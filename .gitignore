@@ -29,7 +29,7 @@ BepInEx/*
 # mod ignore list
 
 #Include User/Mods/
-!User
-!User/cache
-!User/Mods
-User/*
+!user
+!user/cache
+!user/mods
+user/*
